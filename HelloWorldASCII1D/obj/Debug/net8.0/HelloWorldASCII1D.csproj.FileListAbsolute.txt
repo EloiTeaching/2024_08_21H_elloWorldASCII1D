@@ -1,0 +1,14 @@
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\bin\Debug\net8.0\HelloWorldASCII1D.exe
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\bin\Debug\net8.0\HelloWorldASCII1D.deps.json
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\bin\Debug\net8.0\HelloWorldASCII1D.runtimeconfig.json
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\bin\Debug\net8.0\HelloWorldASCII1D.dll
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\bin\Debug\net8.0\HelloWorldASCII1D.pdb
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\HelloWorldASCII1D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\HelloWorldASCII1D.AssemblyInfoInputs.cache
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\HelloWorldASCII1D.AssemblyInfo.cs
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\HelloWorldASCII1D.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\HelloWorldASCII1D.dll
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\refint\HelloWorldASCII1D.dll
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\HelloWorldASCII1D.pdb
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\HelloWorldASCII1D.genruntimeconfig.cache
+C:\Users\Shadow\source\repos\HelloWorldASCII1D\HelloWorldASCII1D\obj\Debug\net8.0\ref\HelloWorldASCII1D.dll
